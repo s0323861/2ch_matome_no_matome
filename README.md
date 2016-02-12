@@ -7,6 +7,10 @@
 
 ### Usage
 
+  - download Lite.php from PEAR and upload the file in Cache directory
+
+  - make rsscache directory
+
   - upload all files to the web server
 
 
