@@ -21,9 +21,9 @@
 
 ### Demo
 
-  - http://2ch.tsukuba42195.top/
+  - http://s0323861.moo.jp/matome/
 
 
 ### Licence
 
-  - Copyright 2016 Akira Mukai. Licensed under the MIT License
+  - Copyright 2021 Akira Mukai. Licensed under the MIT License
